@@ -1,0 +1,2 @@
+rootProject.name='Tinnews'
+include ':app'
